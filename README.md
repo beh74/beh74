@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @beh74
-- 👀 I’m interested in ML, docker, docker swarm, k8s, elasticsearch
+- 👋 Hi, I’m Bertrand
+- 👀 I’m interested in ML, Postgresql, Ansible, Elasticsearch, S3, docker, docker swarm, k8s
 - 📫 How to reach me : hartwig.bertrand@gmail.com
 
 <!---
